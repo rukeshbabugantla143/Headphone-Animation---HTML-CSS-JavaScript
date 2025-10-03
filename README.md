@@ -19,10 +19,6 @@ It features smooth animations, stylish backgrounds, and automatic transitions, m
 - **JavaScript (ES6)**  
 
 ---
-
-
----
-
 ## 🚀 How to Use  
 1. Clone the repository:  
    ```bash
